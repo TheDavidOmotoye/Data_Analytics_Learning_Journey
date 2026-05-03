@@ -19,12 +19,13 @@ It serves as a public portfolio of my learning progression, hands-on practice, p
 | Phase | Status | Focus Area |
 |--------|--------|------------|
 | 01. Statistical Analysis Fundamentals | ✅ Completed | Core statistical thinking & analytical reasoning |
-| 02. Excel for Data Analysis | 🔄 In Progress | Spreadsheet analysis, formulas, pivots, dashboards |
-| 03. SQL for Data Analysis | ⏳ Upcoming | Querying, joins, aggregation, database analysis |
-| 04. Tableau / Data Visualization | ⏳ Upcoming | Visual storytelling & dashboard design |
-| 05. Power BI | ⏳ Upcoming | Business intelligence & interactive reporting |
-| 06. Python for Data Analysis | ⏳ Upcoming | Pandas, NumPy, automation, EDA |
-| 07. Advanced Python / Professional Analytics | ⏳ Upcoming | Advanced analytics, optimization, scalable workflows |
+| 02. Advanced Statistical Analysis | 🔄 In Progress | Advanced Statistical thinking & analyical reasoning |
+| 03. Excel for Data Analysis | ⏳ Upcoming | Spreadsheet analysis, formulas, pivots, dashboards |
+| 04. SQL for Data Analysis | ⏳ Upcoming | Querying, joins, aggregation, database analysis |
+| 05. Tableau / Data Visualization | ⏳ Upcoming | Visual storytelling & dashboard design |
+| 06. Power BI | ⏳ Upcoming | Business intelligence & interactive reporting |
+| 07. Python for Data Analysis | ⏳ Upcoming | Pandas, NumPy, automation, EDA |
+| 08. Advanced Python / Professional Analytics | ⏳ Upcoming | Advanced analytics, optimization, scalable workflows |
 
 ---
 
