@@ -1,52 +1,95 @@
 # 📊 Statistics Fundamentals
 
-## 📘 Module Overview
-This module covers the foundational statistical concepts required for effective data analysis. It focuses on understanding how to summarize, interpret, and draw insights from data using descriptive statistics, probability, and exploratory analysis techniques.
+## 📘 Overview
+This phase covers the statistical foundations required for effective data analysis and business decision-making.  
+It focuses on building a practical understanding of descriptive statistics, probability, distribution analysis, and exploratory analytical techniques through structured daily practice datasets.
+
+---
+
+## 🎯 Learning Objectives
+- Understand how to classify and structure data for analysis  
+- Apply descriptive statistics to summarize datasets  
+- Measure spread, distribution, and variability  
+- Detect anomalies and outliers using statistical methods  
+- Analyze relationships between variables  
+- Communicate findings through visualizations  
+- Apply statistical reasoning to mini-project business scenarios  
 
 ---
 
 ## 🧠 Topics Covered
 
-### Week 1
-- Data Types & Classification
-- Measures of Central Tendency
-- Measures of Variability
-- Quartiles & Percentiles
-- Distribution & Skewness
+### Week 1 — Statistical Foundations
+1. Data Types & Classification  
+2. Measures of Central Tendency  
+3. Measures of Variability  
+4. Quartiles & Percentiles  
+5. Distribution & Skewness  
 
-### Week 2
-- Outlier Detection
-- Correlation Analysis
-- Data Visualization Principles
-- Probability & Conditional Probability
-- Mini Statistical Analysis Project
-
----
-
-## 🛠 Skills Developed
-- Data Classification
-- Statistical Interpretation
-- Distribution Analysis
-- Outlier Detection Using IQR
-- Correlation Analysis
-- Probability Calculation
-- Data Visualization Selection
-- Exploratory Data Analysis (EDA)
+### Week 2 — Applied Statistical Analysis
+6. Outlier Detection  
+7. Correlation Analysis  
+8. Data Visualization Principles  
+9. Probability & Conditional Probability  
+10. Statistical Mini Project  
 
 ---
 
-## 💻 Tools Used
-- Microsoft Excel
-- Statistical Functions
-- Pivot Tables
-- Histograms
-- Scatter Plots
-- Bar Charts
+## 🛠 Tools Used
+- **Microsoft Excel**
+  - Descriptive Statistical Functions  
+  - Conditional Functions  
+  - Pivot Tables  
+  - Charts / Histograms / Scatter Plots  
 
 ---
 
-## 🎯 Key Learning Outcome
-This module established the statistical foundation required for deeper analytical work across Excel, SQL, Business Intelligence, and Python.
+## 📂 Repository Structure
+
+```text
+Statistical_Analysis/
+│
+├── Raw_Datasets/
+│
+├── Study_Week_1/
+│   ├── Day_01_Data_Types/
+│   ├── Day_02_Central_Tendency/
+│   ├── Day_03_Variability/
+│   ├── Day_04_Quartiles_Percentiles/
+│   ├── Day_05_Distribution_Skewness/
+│   └── REFLECTION.md
+│
+├── Study_Week_2/
+│   ├── Day_06_Outliers/
+│   ├── Day_07_Correlation/
+│   ├── Day_08_Data_Visualization/
+│   ├── Day_09_Probability/
+│   ├── Day_10_Mini_Project/
+│   └── REFLECTION.md
+│
+└── README.md
+```
+
+---
+
+## 📈 Key Skills Developed
+- Descriptive Statistical Analysis  
+- Exploratory Data Analysis (EDA)  
+- Distribution Interpretation  
+- Correlation Assessment  
+- Outlier Investigation  
+- Statistical Business Storytelling  
+- Visualization Best Practices  
+
+---
+
+## 💡 Key Outcome
+By the end of this phase, I developed a strong foundational understanding of statistical thinking and practical analytical methods required for more advanced work in Excel, SQL, BI Tools, and Python.
+
+---
+
+## 🚀 Next Phase
+**Excel for Data Analysis**
 
 ---
 
