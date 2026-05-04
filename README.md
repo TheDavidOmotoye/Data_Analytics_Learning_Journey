@@ -10,7 +10,7 @@ It serves as a public portfolio of my learning progression, hands-on practice, p
 
 ## ✅ Current Status
 **Completed:** Statistical Analysis Fundamentals  
-**In Progress:** Excel for Data Analysis  
+**In Progress:** Advanced Statistical Analysis  
 
 ---
 
