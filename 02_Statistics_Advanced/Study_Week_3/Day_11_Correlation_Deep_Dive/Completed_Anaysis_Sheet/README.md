@@ -133,4 +133,5 @@ Customer Satisfaction Rank vs Service Quality Rank
 > 3. Data Type  
 > 4. Relationship Shape
 
+## Conclusion
 Pearson Product-Moment Correlation was used to evaluate linear relationships between continuous variables where data quality and distribution assumptions were acceptable. Spearman Rank Correlation was additionally applied as a robustness check to assess whether relationships remained consistent when variables were converted to ranked values, thereby reducing sensitivity to outliers and non-linearity.
