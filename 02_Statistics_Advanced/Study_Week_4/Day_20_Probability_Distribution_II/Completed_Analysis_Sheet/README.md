@@ -1,55 +1,71 @@
-# KEY INSIGHTS — Probability Distribution II
+# 📊 KEY INSIGHTS
 
-## 1. Waiting Time Had the Biggest Impact on Risk
-Days with long customer waiting times usually had the highest operational risk scores.
+## 🔹 1. Call Volume Strongly Influences Operational Risk
+The 40% weighting assigned to Call Arrivals significantly affected the final Risk Score.
 
-Examples:
-- Day 42 → Waiting Time = 19.22 mins → Risk Score = 0.77
-- Day 19 → Waiting Time = 13.71 mins → Risk Score = 0.71
+Days with:
 
-This means long delays created major service pressure.
+- high call arrivals
+- high waiting times
+- high defect counts
 
----
-
-## 2. High Defects Increased Operational Problems
-Higher defect counts increased operational risk.
-
-Examples:
-- Day 5 → Defects = 8 → Risk Score = 0.86
-- Day 13 → Defects = 7 → Risk Score = 0.60
-
-This shows that quality issues affected operations negatively.
+consistently produced elevated operational risk.
 
 ---
 
-## 3. High Call Volume Did Not Always Mean High Risk
-Some days had many calls but still maintained stable operations because waiting time and defects stayed low.
+## 🔹 2. Waiting Time Was a Major Service Indicator
+Long waiting times increased operational strain.
 
-Examples:
-- Day 8 → 38 calls → Risk Score = 0.50
-- Day 35 → 34 calls → Risk Score = 0.36
+Observations with elevated waiting times frequently aligned with:
 
-This means efficient systems can handle heavy demand.
-
----
-
-## 4. Exponential Distribution Helped Detect Unusual Delays
-Very long waiting times produced very small probabilities.
-
-Examples:
-- Day 42 → Waiting Probability = 0.004
-- Day 19 → Waiting Probability = 0.012
-
-This identified rare service delays.
+- higher risk scores
+- operational pressure
+- service inefficiency
 
 ---
 
-## 5. Relative Risk Index Improved Monitoring
-The Relative Risk Index helped compare each day's risk with the average operational risk.
+## 🔹 3. Defects Were Moderately Distributed
+Most defect probabilities remained within normal operational range.
 
-Categories:
-- Above Average Risk
-- Average Risk
-- Below Average Risk
+However:
 
-This improved operational monitoring.
+- certain batches showed unusually high defect activity
+- these directly increased the composite risk score
+
+---
+
+## 🔹 4. Risk Scores Were Properly Balanced
+The weighted scoring approach prevented any single metric from dominating the analysis.
+
+This created:
+
+- balanced operational interpretation
+- realistic KPI evaluation
+- better comparative analysis
+
+---
+
+## 🔹 5. Relative Risk Index Improved Interpretation
+Instead of only using raw risk scores, the Relative Risk Index allowed comparison against the overall operational average.
+
+This improved:
+
+- anomaly detection
+- performance monitoring
+- operational benchmarking
+
+---
+
+## 🔹 6. Operational Flags Improved Business Readability
+The use of labels such as:
+
+- Normal
+- Unusual
+- Rare Outcome
+- Long Wait
+- Moderate Operational Risk
+- High Operational Risk
+
+made the dataset understandable to non-technical stakeholders.
+
+This is a strong business analytics practice.
