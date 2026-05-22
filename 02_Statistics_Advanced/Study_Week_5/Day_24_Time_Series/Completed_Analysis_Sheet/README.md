@@ -1,3 +1,5 @@
+## Key Insights
+
 1. Revenue displayed a strong long-term upward trend from 2023 to 2025.
 
 2. The 3-Month Moving Average successfully smoothed short-term fluctuations and revealed the underlying business growth pattern.
