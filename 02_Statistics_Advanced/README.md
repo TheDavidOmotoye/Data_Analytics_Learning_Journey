@@ -1,4 +1,4 @@
-# 📊 Advanced Statistics Learning Journey
+# 📊 Advanced Statistics Learning Journey — COMPLETED PHASE 2 ✅
 
 ---
 
@@ -6,13 +6,15 @@
 
 This repository documents my structured learning journey through Advanced Statistical Analysis as part of my transition into professional data analytics.
 
-The focus of this phase is not just learning formulas, but understanding how statistics supports:
+The focus of this phase extended beyond learning formulas into understanding how statistics supports:
 
 - Business decision-making
 - Operational analysis
 - Predictive thinking
 - Risk evaluation
-- Real-world data interpretation
+- Forecasting
+- Time-series interpretation
+- Real-world business analytics
 
 This repository contains:
 - Study Notes
@@ -21,37 +23,40 @@ This repository contains:
 - Business insights
 - Reflection documents
 - Practical Excel implementations
+- Statistical mini projects
+- Forecasting & trend analysis
 
 ---
 
 ## 🚀 Learning Philosophy
 
-The objective of this journey is to build:
+The objective of this journey was to build:
 
 ✅ Strong analytical foundations  
 ✅ Real-world business interpretation skills  
 ✅ Statistical reasoning ability  
 ✅ Data storytelling capability  
+✅ Forecasting & predictive analysis understanding  
 ✅ Portfolio-ready analytical projects  
 
-The learning process emphasizes:
-- Understanding concepts deeply
-- Applying analysis practically
-- Translating outputs into business insights
-- Building analyst-level thinking
+The learning process emphasized:
+- understanding concepts deeply,
+- applying analysis practically,
+- translating outputs into business insights,
+- and building analyst-level thinking.
 
 ---
 
-## 📚 Topics Covered So Far
+## 📚 Topics Successfully Completed
 
 ---
 
-## 📌 Week 3 — Hypothesis Testing & Statistical Significance
+## 📌 Week 3 — Hypothesis Testing & Statistical Significance ✅
 
 ### Topics Covered
 - Hypothesis Testing
 - p-values
-- t-Tests
+- Independent t-Tests
 - ANOVA
 - Chi-Square Testing
 
@@ -60,10 +65,11 @@ The learning process emphasizes:
 ✅ Significance testing  
 ✅ Group comparison analysis  
 ✅ Categorical relationship testing  
+✅ Business interpretation of statistical outputs  
 
 ---
 
-## 📌 Week 4 — Probability Distributions & Standardization
+## 📌 Week 4 — Probability Distributions & Standardization ✅
 
 ### Topics Covered
 - Normal Distribution
@@ -84,52 +90,87 @@ The learning process emphasizes:
 
 ---
 
-## 📈 Current Progress
+## 📌 Week 5 — Regression, Forecasting & Time Series Analysis ✅
 
-At this stage of the journey, I can now:
+### Topics Covered
+- Correlation Analysis
+- Regression Analysis
+- Regression Diagnostics
+- Residual Analysis
+- Time Series Analysis
+- Moving Averages
+- Forecasting
+- Seasonal Analysis
+- Trend Analysis
+- Year-over-Year Analysis
 
-✅ Perform statistical testing in Excel  
-✅ Interpret p-values and significance levels  
-✅ Detect sampling bias and reliability issues  
-✅ Analyze operational variability  
-✅ Apply probability distributions to business problems  
-✅ Standardize and normalize data  
-✅ Extract business insights from datasets  
-✅ Build structured analytical reports  
+### Key Skills Developed
+✅ Predictive analytics  
+✅ Regression interpretation  
+✅ Forecasting logic  
+✅ Trend analysis  
+✅ Seasonal business interpretation  
+✅ Time-series structuring  
+✅ Business intelligence storytelling  
+✅ Forecast smoothing using moving averages  
 
 ---
 
-## 🔥 Major Learning Milestones Reached
+## 📈 Current Capability Level
 
-This learning phase has marked a major transition from:
+At this stage of the learning journey, I can now:
+
+✅ Perform advanced statistical testing in Excel  
+✅ Interpret p-values and significance levels  
+✅ Conduct ANOVA and Chi-Square analysis  
+✅ Analyze operational variability  
+✅ Apply probability distributions to business problems  
+✅ Standardize and normalize datasets  
+✅ Build correlation and regression models  
+✅ Perform time-series analysis  
+✅ Create moving average forecasting models  
+✅ Interpret business trends and seasonality  
+✅ Build structured analytical reports  
+✅ Translate statistical outputs into business insights  
+
+---
+
+## 🔥 Major Learning Milestones Achieved
+
+This learning phase marked a major transition from:
 
 ❌ Simply calculating formulas
 
 to
 
-✅ Thinking like a data analyst
+✅ Thinking and communicating like a data analyst
 
-Key improvements include:
-- stronger interpretation skills
-- improved business reasoning
-- better analytical structure
-- more confidence with statistical concepts
-- practical Excel implementation ability
+Major improvements include:
+- stronger interpretation ability,
+- improved business reasoning,
+- more structured analytical thinking,
+- forecasting understanding,
+- practical statistical implementation,
+- and increased confidence in business analytics workflows.
 
 ---
 
 ## 🧠 Real-World Analytical Focus
 
-The learning journey consistently emphasizes:
+The learning journey consistently emphasized:
 
 | Statistical Skill | Business Application |
 |---|---|
 | Hypothesis Testing | Decision validation |
 | Correlation Analysis | Relationship analysis |
+| Regression Analysis | Revenue prediction |
 | Probability Distributions | Operational forecasting |
 | Z-Scores | Outlier detection |
 | Chi-Square Testing | Categorical analysis |
 | ANOVA | Multi-group comparison |
+| Moving Averages | Forecast smoothing |
+| Time Series Analysis | Trend evaluation |
+| Seasonal Analysis | Business cycle detection |
 
 ---
 
@@ -141,24 +182,33 @@ Advanced Statistical Analysis/
 ├── Week 3/
 ├── Week 4/
 ├── Week 5/
-├── Reflections/
-└── Portfolio_Projects/
+├── Mini_Project/
+└── Reflections/
 ```
 
 ---
 
-## 🚀 Week 5 Begins Today
+## 📊 Phase 2 Mini Project — COMPLETED ✅
 
-Week 5 officially begins today and marks the conclusion of:
+The learning phase concluded with a complete Advanced Statistical Analysis Mini Project involving:
 
-## ✅ Phase 2 — Advanced Statistical Analysis
+✅ Descriptive Statistics  
+✅ Hypothesis Testing  
+✅ ANOVA  
+✅ Chi-Square Testing  
+✅ Correlation Analysis  
+✅ Regression Analysis  
+✅ Regression Diagnostics  
+✅ Time Series Analysis  
+✅ Forecasting  
+✅ Seasonal Analysis  
+✅ Year-over-Year Trend Analysis  
 
-This upcoming phase will focus on:
-- deeper analytical interpretation
-- predictive analysis foundations
-- regression modeling
-- analytical storytelling
-- portfolio-quality projects
+The mini project successfully simulated:
+- business intelligence workflows,
+- forecasting analysis,
+- operational analytics,
+- and portfolio-level statistical reporting.
 
 ---
 
@@ -168,6 +218,9 @@ This upcoming phase will focus on:
 - Statistical Functions
 - Pivot Tables
 - Data Analysis ToolPak
+- Scatter Plots
+- Trendlines
+- Forecasting Models
 - Analytical Reporting Techniques
 
 ---
@@ -175,11 +228,11 @@ This upcoming phase will focus on:
 ## 🎯 Long-Term Goal
 
 To develop into a highly skilled data analyst capable of:
-- solving real business problems
-- communicating analytical insights effectively
-- building data-driven solutions
-- combining strong statistical thinking with practical business understanding
-- To pass this knowledge to fellow data enthusiasts
+- solving real business problems,
+- communicating analytical insights effectively,
+- building data-driven solutions,
+- combining strong statistical thinking with practical business understanding,
+- and mentoring fellow data enthusiasts.
 
 ---
 
@@ -188,16 +241,27 @@ To develop into a highly skilled data analyst capable of:
 This repository represents more than completed lessons.
 
 It documents:
-- analytical growth
-- problem-solving development
-- statistical reasoning improvement
-- the transition from learning concepts to applying analytics professionally
+- analytical growth,
+- forecasting capability development,
+- statistical reasoning improvement,
+- business interpretation maturity,
+- and the transition from learning concepts to applying analytics professionally.
+
+The completion of Phase 2 significantly strengthened:
+- confidence in Excel analytics,
+- forecasting interpretation,
+- regression modeling,
+- time-series analysis,
+- and business storytelling through data.
 
 ---
 
 <footer>
 
+### ✅ Phase 2 — Advanced Statistical Analysis COMPLETED
+
 **David Omotoye**  
-*Advanced Statistics Learning Journey*
+*Advanced Statistics Learning Journey*  
+📊 Portfolio Development • Statistical Analytics • Forecasting • Business Intelligence
 
 </footer>
