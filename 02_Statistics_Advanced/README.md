@@ -1,4 +1,4 @@
-# 📊 Advanced Statistics Learning Journey — COMPLETED PHASE 2 ✅
+# 📊 Advanced Statistics Learning Journey — PHASE 2 ✅
 
 ---
 
